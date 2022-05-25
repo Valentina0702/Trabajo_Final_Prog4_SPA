@@ -4,7 +4,7 @@ import { Carousel } from "react-bootstrap";
 import perro from "./images/perro.jpg";
 import gato from "./images/gato.jpg";
 
-function Footer() {
+function Footer(props) {
   return (  
     <div>
       <h1>Hola soy el footer</h1>

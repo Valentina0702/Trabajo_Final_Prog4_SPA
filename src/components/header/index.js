@@ -5,19 +5,19 @@ function Aux() {
   return (
     <div>
       <h1>Hola soy el header</h1>
-      <Alert variant='success'>
-        <Alert.Heading>Hey, nice to see you</Alert.Heading>
-        <p>
-          Aww yeah, you successfully read this important alert message. This
-          example text is going to run a bit longer so that you can see how
-          spacing within an alert works with this kind of content.
-        </p>
-        <hr />
-        <p className='mb-0'>
-          Whenever you need to, be sure to use margin utilities to keep things
-          nice and tidy.
-        </p>
-      </Alert>
+      <p class="information__tituloseccion">Informacion Personal</p>
+        <p class="information__tituloInfo">Nombre y Apellidos:</p>
+        <p class="information__infoInfo">Nicolás Trujiillo Ríos</p>
+        <p class="information__tituloInfo">Direccion:</p>
+        <p class="information__infoInfo">CLL 19 # 10-53</p>
+        <p class="information__tituloInfo">Telefono:</p>
+        <p class="information__infoInfo">3113016167</p>
+        <p class="information__tituloInfo">Email:</p>
+        <p class="information__infoInfo">nico50829@gmail.com</p>
+        <p class="information__tituloInfo">Fecha de nacimiento:</p>
+        <p class="information__infoInfo">29 de agosto de 1999</p>
+        <p class="information__tituloInfo">Identificacion:</p>
+        <p class="information__infoInfo">1053872108</p>
     </div>
   );
 }
