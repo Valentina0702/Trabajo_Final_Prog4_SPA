@@ -74,3 +74,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Se utilizaron los siguientes componentes para el desarrollo de la aplicación.
 
 Botones: https://getbootstrap.com/docs/5.2/components/buttons/
+
+## Como clonar
+> Para clonar el proyecto brindamos las siguientes 2 opciones.
+ * **Clone with SSH:** 
+ ```
+ git@github.com:Nicosqui/Trabajo_Final_Prog4_SPA.git
+ ```
+ * **Clone with HTTPS:** 
+ ```
+ https://github.com/Nicosqui/Trabajo_Final_Prog4_SPA.git
+ ```
+
+## Autores
+> Valentina Diaz Orozco
+
+> Nicolas Trujillo Rios
